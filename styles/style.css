@@ -1,0 +1,57 @@
+#tyro-top {position:absolute;top:0px;left:0px;background-image:url(../images/bg/top.png);width:100%;height:72px;display:block;}
+
+#tyro-header {width:900px;height:450px;display:block;background-image:url(../images/bg/header.png);position:relative;top:30px;}
+
+#tyro-header2 {background:url(../images/bg/header2.png);background-repeat:no-repeat;background-position:center top;}
+
+#tyro-navigation {width:900px;height:150px;display:block;background-image:url(../images/bg/navigation.png);position:relative;top:10px;}
+
+#tyro-footer {background-image:url(../images/bg/footer.png);width:900px;height:150px;}
+
+#tyro-body {background-image:url(../images/bg/body.png);}
+
+#tyro-base {background-image:url(../images/bg/content.png);width:900px;}
+
+#tyro-leftsidebar {background-color:white;width:200px;}
+
+#tyro-container #tyro-navigation table.navigation a.navigation {font-family:Exaggerate BRK;font-size:23px;color:white;text-decoration:none;}
+
+#tyro-container #tyro-navigation table.navigation a.navigation:hover {color:423204;}
+
+#tyro-container #tyro-footer table.footer a.ja-logo {width:78px;height:50px;background-image:url(../images/bg/ja-web-design-logo.png);display:block;}
+
+#tyro-container #tyro-base table.base td.leftsidebar td.content a.cp {color:66500f;text-decoration:none;}
+
+#tyro-container #tyro-base table.base td.leftsidebar td.content a.cp:hover {color:white;}
+
+#tyro-container #tyro-footer table.footer span.content {font-family:Exaggerate BRK;font-size:17px;color:white;}
+
+#tyro-container #tyro-base table.base td.leftsidebar td.title {background-image:url(../images/bg/divider.png);width:220px;}
+
+#tyro-container #tyro-base table.base td.center td.title {background-image:url(../images/bg/divider.png);width:540px;}
+
+#tyro-container #tyro-base table.base td.leftsidebar td.content {border:1px solid #7c6216;border-left:1px solid #7c6216;border-bottom:1px solid #7c6216;background-image:url(../images/bg/content2.png);}
+
+#tyro-container #tyro-base table.base td.center td.content {border:1px solid #7c6216;border-left:1px solid #7c6216;border-bottom:1px solid #7c6216;background-image:url(../images/bg/content2.png);}
+
+#tyro-top span.top-content {font-family:Exaggerate BRK;font-size:19px;color:white;}
+
+#tyro-container #tyro-base table.base td.center span.title {font-family:Exaggerate BRK;font-size:19px;color:white;}
+
+#tyro-container #tyro-base table.base td.center span.content {font-family:Arial;font-size:13px;color:66500f;}
+
+#tyro-container #tyro-base table.base td.leftsidebar span.title {font-family:Exaggerate BRK;font-size:19px;color:white;}
+
+#tyro-container #tyro-base table.base td.leftsidebar span.content {font-family:Arial;font-size:13px;color:66500f;}
+
+#tyro-container #tyro-base table.base td.leftsidebar input.login {background-image:url(../images/bg/divider.png);border:1px solid white;color:white;width:80px;height:25px}
+
+#tyro-container #tyro-navigation table.navigation {height:60px;width:800px;}
+
+#tyro-top a.off {background-image:url(../images/status/off.png);display:block;width:16px;height:18px;}
+
+#tyro-top a.on {background-image:url(../images/status/on.png);display:block;width:16px;height:18px;}
+
+#tyro-top table.playeronline {width:70px;height:45px;background-image:url(../images/status/playersonline.png);}
+
+#tyro-top table.playeronline span.playersonline {color:white;font-family:Exaggerate BRK;font-size:18px;}
